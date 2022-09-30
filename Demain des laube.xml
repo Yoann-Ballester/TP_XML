@@ -1,0 +1,30 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+   
+  
+<poeme>
+	
+	<titre>Demain, dès l'aube...</titre>
+	<recueil>Les contemplations</recueil> 
+
+	<auteur>Victor HUGO</auteur>
+
+
+	<strophe>
+		<vers>Demain, dès l'aube, à l'heure où blanchit la campagne,</vers>
+		<vers>Je partirai. Vois-tu, je sais que tu m'attends.</vers>
+		<vers>J'irai par la forêt, j'irai par la montagne.</vers>
+		<vers>Je ne puis demeurer loin de toi plus longtemps. </vers>
+	</strophe>
+	<strophe>
+		<vers>Je marcherai les yeux fixés sur mes pensées,</vers>
+		<vers>Sans rien voir au dehors, sans entendre aucun bruit,</vers>
+		<vers>Seul, inconnu, le dos courbé, les mains croisées,</vers>
+		<vers>Triste, et le jour pour moi sera comme la nuit.</vers>
+	</strophe>
+	<strophe>
+		<vers>Je ne regarderai ni l'or du soir qui tombe,</vers> 
+		<vers>Ni les voiles au loin descendant vers Harfleur,</vers>
+		<vers>Et quand j'arriverai, je mettrai sur ta tombe</vers>
+		<vers>Un bouquet de houx vert et de bruyère en fleur.</vers>
+	</strophe>
+</poeme>

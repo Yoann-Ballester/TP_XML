@@ -1,0 +1,20 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<biographie>	
+			<nom>Camille Pissaro</nom>
+			<mouvement>Impressioniste</mouvement>
+			<naissance>10 juillet 1830, Charlotte Amalie, Îles Vierges des États-Unis</naissance>
+			<deces>13 novembre 1903, Paris</deces>
+			<portrait url="http://www.impressionniste.net/pissarro_autoportrait_73_s.jpg" path="images/pissarro_autoportrait_73_s.jpg"/>
+			<oeuvre-1 url="http://www.impressionniste.net/pissarro_cote_jalais_67.jpg" path="images/pissarro_cote_jalais_67.jpg"/>
+			<oeuvre-2 url="http://www.impressionniste.net/pissarro_gelee_blanche.jpg" path="images/pissarro_gelee_blanche.jpg"/>
+			<oeuvre-3 url="http://www.impressionniste.net/poultry_market_82_s.jpg" path="images/poultry_market_82_s.jpg"/>
+			<texte>
+			Camille Pissarro voit le jour dans l'Ile de Saint-Thomas le 10 juillet 1830 d'un père (Abraham) juif français d'origine portugaise émigré dans cette colonie danoise des Antilles, commerçant en quincaillerie, et d'une mère créole des Antilles danoises du nom de Rachel Manzano-Pomie.
+			Son père l'envoie suivre sa scolarité, de 1842 à 1847, dans un pensionnat d'un petit village des environs de Paris, Passy. Dès cette époque, il dessine à la campagne et visite les musées parisiens. Revenu à Saint-Thomas, il se lie d'amitié avec le peintre danois Fritz Melbye, avec lequel il s'enfuit en 1852, afin d'échapper à l'entreprise de son père, vers Caracas au Vénézuela où il restera deux ans.
+			En 1855 son père finit par céder à sa volonté de devenir peintre et l'envoie de nouveau, afin de lui faire suivre une formation plus sérieuse, à Paris, où la branche française de sa famille allait lui apporter son soutien financier.
+			
+			<titre>L'ACADEMIE SUISSE</titre>
+			Pissarro n'y suivra pas une formation régulière, mais se contentera de travailler occasionnellement à l'"Académie Suisse". Cet atelier parisien prestigieux créé en 1815, successivement dirigé par David, Gros, Delaroche, et sous la direction du peintre suisse Charles Gleyre depuis 1844, mettait à la disposition des jeunes artistes un atelier et des modèles. L'Académie Suisse ne dispensait pas de cours, mais permettait aux jeunes peintres d'étudier ensemble le nu, le prix d'un modèle étant trop élevé pour un seul artiste. C'est là qu'il fera la connaissance de Monet en 1859, de Guillaumin et de Cézanne en 1861. 
+			</texte>
+</biographie>			

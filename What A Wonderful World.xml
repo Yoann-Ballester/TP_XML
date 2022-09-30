@@ -1,0 +1,32 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<chanson>
+	<auteur>Louis Armstrong</auteur>
+
+	<titre>WHAT A WONDERFUL WORLD</titre>
+	<paragraphe>
+		<ligne>I see trees of green, red roses too</ligne>
+		<ligne>I see them bloom for me and you</ligne>
+		<ligne>And I think to myself, what a wonderful world</ligne>
+	</paragraphe>
+	<paragraphe>
+		<ligne>I see skies of blue and clouds of white</ligne>
+		<ligne>The bright blessed day, the dark sacred night</ligne>
+		<ligne>And I think to myself, what a wonderful world</ligne>
+	</paragraphe>
+	<paragraphe>
+		<ligne>The colours of the rainbow, so pretty in the sky</ligne>
+		<ligne>Are also on the faces of people going by</ligne>
+		<ligne>I see friends shakin' hands, sayin' "How do you do?"</ligne>
+		<ligne>They're really saying "I love you"</ligne>
+	</paragraphe>
+	<paragraphe>
+		<ligne>I hear babies cryin', I watch them grow</ligne>
+		<ligne>They'll learn much more than I'll ever know</ligne>
+		<ligne>And I think to myself, what a wonderful world</ligne>
+		<ligne>Yes, I think to myself, what a wonderful world</ligne>
+	</paragraphe>
+	<paragraphe>
+		<ligne>Oh yeah</ligne>
+	</paragraphe>
+</chanson>

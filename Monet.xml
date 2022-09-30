@@ -1,0 +1,22 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<biographie>	
+			<nom>Claude MONET</nom>
+			<mouvement>Impressioniste</mouvement>
+			<naissance>14 Novembre 1840 à Paris</naissance>
+			<deces>1926 à Giverny</deces>
+			<portrait url="http://www.impressionniste.net/monet.jpg" path="images/monet.jpg"/>
+			<oeuvre-1 url="http://www.impressionniste.net/monet012.jpg" path="images/monet012.jpg"/>
+			<oeuvre-2 url="http://www.impressionniste.net/monet_saint_lazare.jpg" path="images/monet_saint_lazare.jpg"/>
+			<oeuvre-3 url="http://www.impressionniste.net/monet_meule_foin_c.jpg" path="images/monet_meule_foin_c.jpg"/>
+			<texte>
+			Monet est reconnu comme étant l'un des créateurs de l'impressionnisme, le plus convaincu et le plus constant des peintres impressionnistes, en même temps que le chef de file du mouvement impressionniste.
+			Depuis ses débuts comme artiste, il fut encouragé à toujours écouter et transmettre ses perceptions, et toutes les critiques qu'il dut subir ne l'éloignèrent jamais de cette quête.
+			Claude Monet naquit à Paris le 14 Novembre 1840 mais toutes ses impressions d'enfant et d'adolescent sont liées à la ville du Havre où sa famille déménagea vers 1845. Son père y tenait un commerce d'articles coloniaux. 
+			
+			<titre>L'HERITIER DE BOUDIN et JONGKIND</titre>
+			Alors qu'il était encore au lycée, il connut une certaine notoriété en peignant des caricatures qu'il exposa dans le magasin de fournitures de dessin avec lequel Eugène Boudin travaillait à l'époque. Finalement Boudin convainquit le jeune Monet, d'abord réticent, de peindre avec lui en plein air. Monet dira plus tard : "par le seul exemple de cet artiste épris de son art et d'indépendance, ma destinée de peintre s'était ouverte".
+			Sa famille n'était pas opposée à ce qu'il devint peintre, mais ses idées indépendantes, sa critique de la peinture académique et son refus de suivre une bonne Ecole d'Art provoquèrent des disputes répétées au sein de sa famille. Finalement, Monet commença à travailler à Paris à l'Académie Suisse, où il fit la connaissance de Pissarro et Cézanne, avant de devoir effectuer ses obligations militaires.
+			Son service militaire en Algérie (1860-1861) fut interrompu par une grave typhoïde qui le ramena en France, où il recommença à travailler l'été 1862 avec Boudin et le peintre-paysagiste hollandais Jongkind, au Havre. Il dira à propos de Jongkind :"...complètant par là l'enseignement que j'avais reçu de Boudin ,il fut à partir de ce moment mon vrai maître, et c'est à lui que je dois l'éducation définitive de mon oeil". 
+			</texte>
+</biographie>			

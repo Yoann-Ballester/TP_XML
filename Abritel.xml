@@ -1,0 +1,30 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<Offres>
+	<offre1>
+		<consultation nombre="X"/>
+		<titre-bien>Gite calme ...</titre-bien>
+		<type>Appartement</type>
+		<chambre>2</chambre>
+		<sdb>1</sdb>
+		<wc>1</wc>
+		<occupants>4</occupants>
+		<position>41.40338, 2.17403</position>
+		<prix>48 euros/nuit</prix>
+		<etoiles>5/5</etoiles>
+	</offre1>
+	
+	<offre2>
+		<consultation nombre="X"/>
+		<titre-bien>Studio(T2) en bord de mer, VILAPLAJ</titre-bien>
+		<type>studio</type>
+		<chambre>1</chambre>
+		<sdb>1</sdb>
+		<wc>1</wc>
+		<occupants>4</occupants>
+		<position>49.40338, 7.17403</position>
+		<prix>70 euros/nuit</prix>
+		<etoiles>4/5</etoiles>
+	</offre2>
+	
+	<carteGPS url=""/>
+</Offres>

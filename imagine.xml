@@ -1,0 +1,44 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<chanson>
+	<titre>Imagine</titre>
+	<date>1970</date>
+
+	<auteur>John Lennon</auteur>
+	<paragraphe>
+		<ligne>Imagine there's no heaven[[</ligne>
+		<ligne>It's easy if you try</ligne>
+		<ligne>No hell below us</ligne>
+		<ligne>Above us only sky</ligne>
+		<ligne>Imagine all the people</ligne>
+		<ligne>Living for today...</ligne>
+	</paragraphe>
+	<paragraphe>
+		<ligne>Imagine there's no countries</ligne>
+		<ligne>It isn't hard to do</ligne>
+		<ligne>Nothing to kill or die for</ligne>
+		<ligne>And no religion too</ligne>
+		<ligne>Imagine all the people</ligne>
+		<ligne>Living life in peace...</ligne>
+	</paragraphe>
+	<paragraphe>
+		<ligne>You may say I'm a dreamer</ligne>
+		<ligne>But I'm not the only one</ligne>
+		<ligne>I hope someday you'll join us</ligne>
+		<ligne>And the world will be as one</ligne>
+	</paragraphe>
+	<paragraphe>
+		<ligne>Imagine no possession</ligne>
+		<ligne>I wonder if you can</ligne>
+		<ligne>No need for greed or hunger</ligne>
+		<ligne>A brotherhood of man</ligne>
+		<ligne>Imagine all the people</ligne>
+		<ligne>Sharing all the world...</ligne>
+	</paragraphe>
+	<paragraphe>
+		<ligne>You may say I'm a dreamer</ligne>
+		<ligne>But I'm not the only one</ligne>
+		<ligne>I hope someday you'll join us</ligne>
+		<ligne>And the world will live as one]]</ligne>
+	</paragraphe>
+</chanson>

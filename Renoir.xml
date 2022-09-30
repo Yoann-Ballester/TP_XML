@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<biographie>	
+			<nom>Pierre Auguste RENOIR</nom>
+			<mouvement>Impressioniste</mouvement>
+			<naissance>25 février 1841, Limoges</naissance>
+			<deces>3 décembre 1919, Cagnes-sur-Mer</deces>
+			<portrait url="http://www.impressionniste.net/renoir.jpg" path="images/renoir.jpg"/>
+			<oeuvre-1 url="http://www.impressionniste.net/renoir_chemin_s.jpg" path="images/renoir_chemin_s.jpg"/>
+			<oeuvre-2 url="http://www.impressionniste.net/renoir_baigneuses_s.jpg" path="images/renoir_baigneuses_s.jpg"/>
+			<oeuvre-3 url="http://www.impressionniste.net/renoir_loge_s.jpg" path="images/renoir_loge_s.jpg"/>
+			<texte>
+			C'est en 1855 que le père de Renoir, un modeste tailleur de pierres de Limoges établi à Paris depuis 1845, met son fils Auguste âgé de 14 ans en apprentissage dans une fabrique de porcelaine, rue du Temple, où l'adolescent est initié à la peinture sur porcelaine.
+			L'introduction d'une machine mettra fin à cette expérience et plusieurs autres suivront, dont la peinture de tentures d'Eglise pour des missionnaires d'outre-mer.
+			Huit ans plus tard Renoir disposait d'assez d'argent pour entrer, en avril 1862, à l'École des Beaux-Arts. Parallèlement aux cours de l'Ecole, il fréquente aussi l'Atelier privé de Charles Gleyre où il se liera d'amitié avec ses condisciples Alfred Sisley, Frédéric Bazille et Claude Monet.
+			
+			<titre>LA PERIODE IMPRESSIONNISTE (1864-1883)</titre>
+			
+			Suivant la recherche de ses amis du Café Guerbois, en particulier Bazille et Monet, sur la lumière naturelle, il travaille souvent «sur le motif» en forêt de Fontainebleau. Ses recherches artistiques vont alors couvrir un large éventail, étant moins sûr que d'autres peintres de la direction à prendre, tenu qu'il est par la double nécessité de vendre des tableaux pour vivre et de se tailler une place sur la scène parisienne.
+			</texte>
+</biographie>			
